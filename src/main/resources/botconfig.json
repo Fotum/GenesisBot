@@ -1,0 +1,6 @@
+{
+	"token": "PRIVATE_TOKEN",
+	"loadcommands": true,
+	"owner": "OWNER_ID",
+	"youtubekey": "YOUTUBE_API_KEY"
+}
